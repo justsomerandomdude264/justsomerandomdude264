@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna Paliwal
-- 👀 I’m interested in Python, JavaScript, PyTorch, TensorFlow, 
-- 🌱 I’m currently learning PyTorch, TensorFlow And Tkinter In Python
+- 👀 I’m interested in Python, JavaScript, PyTorch, TensorFlow, SQL, 
+- 🌱 I’m currently learning PyTorch, TensorFlow And JavaScript.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me
 -> Email - krishna.plwl264@gmail.com
