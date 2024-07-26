@@ -46,14 +46,5 @@ A model trained to classify images into different types of trash built using PyT
 - Discord: [krishna__264](krishna__264)
 - Email: krishna.plwl264@gmail.com
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaPaliwal264&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=KrishnaPaliwal264&theme=onedark)
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaPaliwal264&layout=compact)
-
 ## 🤝 Open to Collaborate
 I'm always interested in collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
