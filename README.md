@@ -5,12 +5,11 @@ Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying t
 
 ## 🔭 Projects
 ### Sign Language Converter
-Aiming to bridge communication gaps by translating sign language into text. Utilizing Django for the backend, Docker for containerization, and modern UI elements for a seamless user experience.
-
+Aiming to bridge communication gaps by translating sign language into text. Utilizing Django for the backend and React for the front.
 [Repository](https://github.com/KrishnaPaliwal264/Sign_Language_Converter)
 
 ### Password Manager
-A secure and efficient password manager built with Spring Boot and Electron. Featuring encryption and decryption of passwords using a master passkey.
+A secure and efficient password manager built with Spring Boot, React and Electron. Featuring encryption and decryption of passwords using a master passkey for safe and secure storage of passwords.
 
 [Repository](https://github.com/KrishnaPaliwal264/Password_Manager)
 
