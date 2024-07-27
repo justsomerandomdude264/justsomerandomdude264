@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying t
 ## 🔭 Projects
 ### Sign Language Converter
 Aiming to bridge communication gaps by translating sign language into text. Utilizing Django for the backend and React for the front.
+
 [Repository](https://github.com/KrishnaPaliwal264/Sign_Language_Converter)
 
 ### Password Manager
