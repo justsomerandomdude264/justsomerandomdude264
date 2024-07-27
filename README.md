@@ -1,7 +1,7 @@
 # Hello, I'm Krishna Paliwal 👋
 
 ## About Me
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn and create innovative solutions. Here's a bit about me and what I’m currently working on.
+Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying to solve real problems using 0s and 1s. Here's a bit about me and what I’m currently working on.
 
 ## 🔭 Projects
 ### Sign Language Converter
