@@ -45,6 +45,7 @@ A model trained to classify images into different types of trash built using PyT
 ## 📫 How to reach me
 - Discord: [krishna__264](krishna__264)
 - Email: krishna.plwl264@gmail.com
+- Hugging Face: [justsomerandomdude264](https://huggingface.co/justsomerandomdude264)
 
 ## 🤝 Open to Collaborate
 I'm always interested in collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
