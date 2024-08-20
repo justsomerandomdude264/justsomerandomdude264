@@ -9,6 +9,11 @@ Aiming to bridge communication gaps by translating sign language into text. Util
 
 [Repository](https://github.com/justsomerandomdude264/Sign_Language_Converter)
 
+### Homework Solver
+This is a LLM, which can solve question ranging from the pure basics to the advanced Mathematics, Science and Social Studies.
+
+[Repository](https://github.com/justsomerandomdude264/Homework_Solver_LLM)
+
 ### Password Manager
 A secure and efficient password manager built with Spring Boot, React and Electron. Featuring encryption and decryption of passwords using a master passkey for safe and secure storage of passwords.
 
