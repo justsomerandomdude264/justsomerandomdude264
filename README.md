@@ -54,3 +54,4 @@ A model trained to classify images into different types of trash built using PyT
 
 ## 🤝 Open to Collaborate
 I'm always interested in collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
+⚡ Fun fact: I am in High School.
