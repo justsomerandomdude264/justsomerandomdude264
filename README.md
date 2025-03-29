@@ -9,6 +9,11 @@ Aiming to bridge communication gaps by translating sign language into text. Util
 
 [Repository](https://github.com/justsomerandomdude264/Sign_Language_Converter)
 
+### FileAI
+A website that transforms text prompts into professionally formatted files like reports, spreadsheets, and visual data representations effortlessly.
+
+[Respository](https://github.com/justsomerandomdude264/File_AI)
+
 ### Homework Solver
 This is a LLM, which can solve question ranging from the pure basics to the advanced Mathematics, Science and Social Studies.
 
