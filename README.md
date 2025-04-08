@@ -29,6 +29,12 @@ A model trained to classify images into different types of trash built using PyT
 
 [Respository](https://github.com/justsomerandomdude264/Trash_Classification_CNN_Model)
 
+### CyberReach
+This is an cyberpunk-themed infinite platformer with electric bursts to avoid coins to collect, and a really cool dying sound.
+
+[Game](https://krishnapaliwal.itch.io/cyberreach)
+
+
 ## 💼 Skills
 
 ### Languages
@@ -56,6 +62,7 @@ A model trained to classify images into different types of trash built using PyT
 - Discord: [justsomerandomdude246](justsomerandomdude246)
 - Email: krishna.plwl264@gmail.com
 - Hugging Face: [justsomerandomdude264](https://huggingface.co/justsomerandomdude264)
+- Itch.io: [KrishnaPaliwal](https://krishnapaliwal.itch.io/)
 
 ## 🤝 Open to Collaborate
 I'm always interested in collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
