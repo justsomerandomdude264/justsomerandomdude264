@@ -34,6 +34,11 @@ This is an cyberpunk-themed infinite platformer with electric bursts to avoid co
 
 [Game](https://krishnapaliwal.itch.io/cyberreach)
 
+### Echoes of Nexus
+This was a submission th the [Gamedev.js Jam 2025](https://itch.io/jam/gamedevjs-2025/rate/3504542) we ranked 291st in innovation, 281st in graphics and 328th overall.
+
+[Game Repository](https://github.com/Sounagix/gamedevjs-jam-2025)
+
 
 ## 💼 Skills
 
