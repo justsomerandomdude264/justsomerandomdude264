@@ -1,10 +1,10 @@
 # Hello, I'm Krishna Paliwal 👋
 
----
+
 ## About Me
 Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying to solve real problems using 0s and 1s. Here's a bit about me and what I’m currently working on.
 
----
+
 ## 🔭 Projects
 
 | Project | Description | Tech Stack / Notes | Links |
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying t
 | **CyberReach** | Cyberpunk-themed infinite platformer with collectibles and effects. | Godot | [Play](https://krishnapaliwal.itch.io/cyberreach) |
 | **Echoes of Nexus** | Submission to Gamedev.js Jam 2025. Ranked **291st Innovation**, **281st Graphics**, **328th Overall**. | Unity | [Game Repo](https://github.com/Sounagix/gamedevjs-jam-2025) |
 
----
+
 ## 💼 Skills
 
 | Category | Skills |
@@ -27,11 +27,10 @@ Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying t
 | **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
----
+
 ## 📫 CONTACT
 - Discord: [justsomerandomdude246](justsomerandomdude246)
 - Email: krishna.plwl264@gmail.com
 - Hugging Face: [justsomerandomdude264](https://huggingface.co/justsomerandomdude264)
 - Itch.io: [KrishnaPaliwal](https://krishnapaliwal.itch.io/)
 
----
