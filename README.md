@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a dev trying to learn how to code and trying t
 | **Homework Solver** | LLM-based solver for Mathematics, Science, and Social Studies. | LLMs, NLP | [Repository](https://github.com/justsomerandomdude264/Homework_Solver_LLM) |
 | **Password Manager** | Secure password storage with encryption/decryption via master passkey. | Spring Boot, React, Electron | [Repository](https://github.com/justsomerandomdude264/Password_Manager) |
 | **Trash Classification CNN Model** | Classifies images into trash categories using deep learning. | PyTorch, CNN | [Repository](https://github.com/justsomerandomdude264/Trash_Classification_CNN_Model) |
+| **Memyze** | Memory Analysis and Port Management Tool for Devs | C++ Qt | [Repository](https://github.com/justsomerandomdude264/memyze) |
 | **CyberReach** | Cyberpunk-themed infinite platformer with collectibles and effects. | Godot | [Play](https://krishnapaliwal.itch.io/cyberreach) |
 | **Echoes of Nexus** | Submission to Gamedev.js Jam 2025. Ranked **291st Innovation**, **281st Graphics**, **328th Overall**. | Unity | [Game Repo](https://github.com/Sounagix/gamedevjs-jam-2025) |
 
